@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" alt="" / > </p>
 
 <h1 align="center">Hi 👋, I'm Andrew Napitupulu</h1>
-<h3 align="center">A passionate Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="" / width="300px" height="200px"> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
